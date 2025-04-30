@@ -1,10 +1,12 @@
+![](https://komarev.com/ghpvc/?username=tanukifk&style=plastic)
+
+
 ## Hi there 👋
 
 I am 
 
 - Data Engineer & Analytics Engineer
 - Solo Web & Mobile Application Developer
-
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fumiaki-kobayashi-39395215a/)
