@@ -12,7 +12,7 @@ I am
 ## Blogs
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fumiaki.kobayashi)
-
+[![zenn](https://img.shields.io/badge/Zenn-grey?style=for-the-badge&logo=zenn)](https://zenn.dev/analytics_eng)
 
 ## Languages and Tools As a Data Engineer & Analytics Engineer
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
