@@ -53,7 +53,7 @@ Tanuki is a shopping management app that makes your daily shopping smarter and m
 **Tech Blogs:**
 
 [![zenn](https://img.shields.io/badge/Zenn-grey?style=for-the-badge&logo=zenn)](https://zenn.dev/tanuki_devs)
-[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tanuki-developers.hashnode.dev/?source=top_nav_blog_home)
+[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tanuki-developers.hashnode.dev/)
 
 <!--
 **tanukifk/tanukifk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
