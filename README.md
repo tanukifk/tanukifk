@@ -41,15 +41,6 @@ I am
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-## My Side Projects
-
-### Tanuki - Shop, Review & Share
-
-Tanuki is a shopping management app that makes your daily shopping smarter and more enjoyable. 
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6745752756)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tanuki.tanukiapp.prod)
-
 **Tech Blogs:**
 
 [![zenn](https://img.shields.io/badge/Zenn-grey?style=for-the-badge&logo=zenn)](https://zenn.dev/tanuki_devs)
